@@ -1,0 +1,18 @@
+{
+  "name": "durant",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Alexander Bennett",
+  "dependencies": {
+    "bufferutil": "^3.0.2",
+    "discord.io": "^2.5.3",
+    "libsodium-wrappers": "^0.5.4",
+    "opusscript": "0.0.4",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "discord.js": "^11.2.1",
+    "uws": "^8.14.1"
+  }
+}
